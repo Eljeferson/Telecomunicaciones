@@ -38,7 +38,7 @@ Finalmente, tambien se exploro los **ingresos** que se recibienron por año, en 
 
 `KPIs`
 
-El primer KPI es:
+### _**Primer KPI**_
 - *Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia*.
 La fórmula es la siguiente:
 
@@ -58,7 +58,8 @@ KPI = ((510 - 500) / 500) * 100 = 2%
 Esto indicaría un aumento del 2% en el acceso a Internet en esa provincia para el próximo trimestre.
 
 
-El segundo KPI es:
+
+### _**Segundo KPI**_
 - *El KPI "Tasa de Crecimiento en Fibra Óptica por Trimestre" mide la variación porcentual en el acceso a Internet a través de la tecnología de fibra óptica entre dos trimestres consecutivos*.
 La fórmula es la siguiente:
 
