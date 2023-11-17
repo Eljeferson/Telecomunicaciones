@@ -79,7 +79,7 @@ Esto indicaría un aumento del 13.33% en fibra óptica para el próximo trimestr
 
 `Dashboard`
 
--### _**Acceso a hogares**_
+### _**Acceso a hogares**_
 <div align="center">
     <img src="assets\SumaAcc100.png" alt="Acceso a hogares" width="50%">
 </div>
