@@ -13,7 +13,7 @@
 <img src="https://www.enacom.gob.ar/public/enacom/tecnopolis2021/img/tecnopolis890.png"  height=300>
 <p>
 
-## **Descripción del problema **
+## **DESCRIPCION DEL PROYECTO **
 
 ### **Contexto**
 
