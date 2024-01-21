@@ -149,3 +149,4 @@ El grafico representa la suma de conexiones ADLS, Dial Up, Cabledemon y Telefoni
 
 ## Contacto
 - Mail : micuentajeferson@gmail.com
+- Linkedin: www.linkedin.com/in/jeferson-albornoz-peña-5018831bb
